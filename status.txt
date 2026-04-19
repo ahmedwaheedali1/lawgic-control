@@ -1,4 +1,2 @@
 ON
-ahmed:123456:ON
-walaa:5555:OFF
-waheed:6666:ON
+ahmed:123456
